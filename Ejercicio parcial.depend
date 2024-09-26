@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1727274121 source:/home/invitado/lawo/Ejercicio parcial/src/Producto.cpp
+	"Producto.h"
+
+1727274152 /home/invitado/lawo/Ejercicio parcial/include/Producto.h
+	<string>
+	<iostream>
+
+1727271555 source:/home/invitado/lawo/Ejercicio parcial/main.cpp
+	<iostream>
+	"Tienda.h"
+	"Producto.h"
+
+1727272016 /home/invitado/lawo/Ejercicio parcial/include/Tienda.h
+	<string>
+	"Producto.h"
+
+1727369034 source:c:\users\steven\desktop\universidad\segundo semestre\poo\ejercicio parcial\src\producto.cpp
+	"Producto.h"
+
+1727369039 c:\users\steven\desktop\universidad\segundo semestre\poo\ejercicio parcial\include\producto.h
+	<string>
+	<iostream>
+
+1727369255 source:c:\users\steven\desktop\universidad\segundo semestre\poo\ejercicio parcial\main.cpp
+	<iostream>
+	"Tienda.h"
+	"Producto.h"
+
+1727368039 c:\users\steven\desktop\universidad\segundo semestre\poo\ejercicio parcial\include\tienda.h
+	<string>
+	"Producto.h"
+
+1727374632 source:c:\users\steven\desktop\universidad\segundo semestre\poo\ejercicio parcial\src\tienda.cpp
+	"Tienda.h"
+	<string>
+	<iostream>
+
